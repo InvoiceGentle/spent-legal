@@ -20,7 +20,7 @@ To provide our core service—automated expense tracking—we require access to 
 -   **Authentication:** We use **Google Firebase Authentication**. We may collect your email address and User ID to secure your account and sync your data across devices.
 
 ### C. Usage Data
--   We use **Firebase Analytics** and **Crashlytics** to collect anonymous usage statistics and crash reports to improve app stability.
+-   **Firebase Analytics** and **Crashlytics** to collect anonymous usage statistics and crash reports to improve app stability.
 
 ## 2. How We Use Your Information
 
@@ -54,5 +54,5 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## 8. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at:
+If you have any questions about these Terms, please contact us at:
 -   **Email:** contact@invoicegentle.com
