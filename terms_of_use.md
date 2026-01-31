@@ -43,4 +43,4 @@ Your use of the Service is at your sole risk. The Service is provided on an "AS 
 ## 6. Contact Us
 
 If you have any questions about these Terms, please contact us at:
--   **Email:** support@spentapp.com
+-   **Email:** contact@invoicegentle.com
