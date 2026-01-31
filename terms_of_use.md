@@ -32,7 +32,13 @@ The Service and its original content, features, and functionality are and will r
 
 ## 4. Termination
 
+### A. By Company
 We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.
+
+### B. By User (Account Deletion)
+You may terminate your account at any time by using the "**Delete Account**" feature found in **Settings > Profile > Delete Account** within the application.
+-   **Data Deletion:** This action is irreversible. All your data stored on our servers will be permanently deleted immediately.
+-   **Subscriptions:** Deleting your account directly within the app does **not** automatically cancel your subscription. You must manually cancel your subscription in your **Google Play Store settings** to avoid future charges.
 
 ## 5. Disclaimer
 
