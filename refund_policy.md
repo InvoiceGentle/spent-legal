@@ -29,4 +29,4 @@ Because Google Play manages all transactions, **we (the developers of Spent) do 
 ## 3. Contact Us
 
 If you have persistent billing issues that Google Support cannot resolve, please contact us for guidance:
--   **Email:** contact@invoicegentle.com
+-   **Email:** spent@invoicegentle.com
