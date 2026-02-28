@@ -55,4 +55,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 ## 8. Contact Us
 
 If you have any questions about these Terms, please contact us at:
--   **Email:** contact@invoicegentle.com
+-   **Email:** spent@invoicegentle.com
